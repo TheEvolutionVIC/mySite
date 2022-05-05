@@ -134,22 +134,9 @@ html{
     color: #475569;
 
   }
-  /*
-.home .col-sm-4 img{
-    background: url("assets/images/Portrait.gif");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    opacity: 1;
-    margin:11px;
-    border-top-left-radius: 25px;
-    border-top-right-radius: 25px;
-    border-bottom-left-radius: 25px;
-    border-bottom-right-radius: 25px;
-    overflow: hidden;
-}*/
 
-.home .col-sm-4 video{
+
+.home .col-sm-4 .bckg video{
   width:288px;
   margin:11px;
   border-radius: 25px;
