@@ -835,6 +835,9 @@ footer .social-media .lin a{
     width: calc(754px - 300px);
     overflow: hidden;
   }
+   .About-Us2 .text p{
+  margin-left:10px;
+  }
 }
 
 @media only screen and (max-width: 992px) {
