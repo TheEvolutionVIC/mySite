@@ -835,11 +835,14 @@ footer .social-media .lin a{
     width: calc(754px - 300px);
     overflow: hidden;
   }
-   .About-Us2 .text p{
+   .About-Us3 .s-hd p{
     margin-left: 10px;
   }
    .About-Us .col-sm-8 p{
      width: 100%;
+  }
+  .About-Us2 .text p{
+    width:100%;
   }
 }
 
