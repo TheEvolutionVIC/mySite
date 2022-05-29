@@ -378,7 +378,9 @@ html{
   
   color: #0F172A;
 }
-
+.team{
+justify-content:center;
+}
 .team p{
   font-family: 'filroy-medium';
   font-style: normal;
